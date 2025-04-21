@@ -1,0 +1,8 @@
+## Interface: 110100
+## Title: GMail
+## Notes: Automates mail sending with configurable settings.
+## Author: Godfrey
+## Version：202504211644
+## SavedVariables: GMailDB
+
+GMail.lua
